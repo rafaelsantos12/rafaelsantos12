@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá 👋
 
 <!--
 **rafaelsantos12/rafaelsantos12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Meu nome é Rafael, do Brasil. Trabalho como desenvolvedor web front-end e atualmente estou no Grupo KPG em Governador Valadares. Sou um entusiasta do desenvolvimento web e outras tecnologias hipsters.
+
+Em tempos livres gosto de jogar games fps (👾),  assistir filmes de ficção cientifica ou que envolva tecnologia (🎬), gosto de jogar (e assistir) futebol (⚽️), futebol Americano (🏈) e tênis de mesa(🏓).
 
 Gostaria de me encontrar?
 
