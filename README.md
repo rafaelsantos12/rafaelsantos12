@@ -3,7 +3,7 @@
 <!--
 **rafaelsantos12/rafaelsantos12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<img align="right" alt="GIF" src="https://github.com/rafasantos12/rafasantos12/blob/master/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rafaelsantos12/rafaelsantos12/master/coding.gif" width="408" height="318" />
 
 Here are some ideas to get you started:
 
