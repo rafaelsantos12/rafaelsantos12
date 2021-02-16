@@ -35,9 +35,9 @@ Gostaria de me encontrar?
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelsantos12&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelsantos12&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsantos12&layout=compact&theme=dracula" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsantos12&layout=compact&theme=radical" />
 
 
 
