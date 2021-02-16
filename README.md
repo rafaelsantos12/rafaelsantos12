@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Tenho 23 anos e sou de uma cidade que se chama Capelinha, do estado de Minas Gerais (MG), Brasil. Trabalho como desenvolvedor web front-end e atualmente estou no Grupo KPG em Governador Valadares-MG. Sou um entusiasta do desenvolvimento web e outras tecnologias hipsters.
+Tenho 23 anos e sou de uma cidade que se chama Capelinha, do estado de Minas Gerais (MG), Brasil. Atualmente trabalho como desenvolvedor web front-end e atualmente estou no Grupo KPG em Governador Valadares-MG. Sou um entusiasta do desenvolvimento web e outras tecnologias hipsters.
 
 Em tempos livres gosto de jogar games fps (👾),  assistir filmes de ficção cientifica ou que envolva tecnologia (🎬), gosto de jogar (e assistir) futebol (⚽️), futebol Americano (🏈) e tênis de mesa(🏓).
 
