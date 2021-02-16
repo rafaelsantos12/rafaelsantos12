@@ -3,6 +3,8 @@
 <!--
 **rafaelsantos12/rafaelsantos12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
