@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 
-Tenho 23 anos e sou de uma cidade que se chama Capelinha, do estado de Minas Gerais (MG), Brasil. Atualmente trabalho como desenvolvedor web front-end no Grupo KPG em na cidade de Governador Valadares-MG. Sou um entusiasta do desenvolvimento web e outras tecnologias hipsters.
+Tenho 23 anos e sou de uma cidade que se chama Capelinha, Minas Gerais, Brasil. Atualmente trabalho como desenvolvedor web front-end no Grupo KPG na cidade de Governador Valadares-MG. Sou um entusiasta do desenvolvimento web e outras tecnologias hipsters.
 
 Em tempos livres gosto de jogar games fps (👾),  assistir filmes de ficção cientifica ou que envolva tecnologia (🎬), gosto de jogar (e assistir) futebol (⚽️), futebol Americano (🏈) e tênis de mesa(🏓).
 
