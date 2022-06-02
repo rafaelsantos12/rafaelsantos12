@@ -1,4 +1,4 @@
-### Olá, sou o Rafael <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Olá, sou o Rafael <!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">-->
 
 <!--
 **rafaelsantos12/rafaelsantos12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
