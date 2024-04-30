@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 
-Tenho 27 anos e sou de Capelinha-MG. Atualmente trabalho como desenvolvedor web front-end na <a href="https://braip.com/">Braip</a> na cidade de Governador Valadares-MG. Sou um entusiasta do desenvolvimento web e outras tecnologias que estejam envolvidas com a web. 
+Tenho 27 anos e sou de Capelinha-MG. Atualmente trabalho como desenvolvedor na <a href="https://braip.com/">Braip</a> na cidade de Governador Valadares-MG. Sou um entusiasta do desenvolvimento web e outras tecnologias que estejam envolvidas com a web. 
 
 Em tempos livres gosto de jogar games fps (👾),  assistir filmes de ficção cientifica ou que envolva tecnologia (🎬), gosto de jogar (e assistir) futebol (⚽️), futebol americano (🏈) e tênis de mesa(🏓).
 
